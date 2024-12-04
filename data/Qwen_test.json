@@ -1,0 +1,18 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>what is the name of him and tell about him",
+        "role": "user"
+      },
+      {
+        "content": "Arjun Reddy, a third-year undergraduate at the Indian Institute of Technology Kharagpur, diving headfirst into Machine Learning and Data Science, where I constantly seek opportunities to learn and innovate. With a strong foundation in these fields, I aim to contribute to cutting-edge projects that push the boundaries of technology and create impactful solutions I am driven by a curiosity to explore the unknown and a determination to make a difference through technology. ",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/content/drive/MyDrive/LLaMA-Factory-main/LLaMA-Factory-main/data/qwen/WhatsApp Image 2024-12-04 at 9.21.57 AM (1).jpeg"
+     
+    ]
+  }
+]

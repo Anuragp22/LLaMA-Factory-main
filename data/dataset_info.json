@@ -1,6 +1,6 @@
 {
-  "output1_data":{
-    "file_name": "output1_data.json",
+  "flickr8k(500)_data":{
+    "file_name": "filtered_dataset(1).json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages",

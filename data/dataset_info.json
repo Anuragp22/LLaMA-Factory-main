@@ -1,4 +1,20 @@
 {
+    "histo200_data":{
+    "file_name": "200_histo.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+
+  },
+    
     "histopatholgy_data":{
     "file_name": "output.json",
     "formatting": "sharegpt",

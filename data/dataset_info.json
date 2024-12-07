@@ -1,4 +1,19 @@
 {
+    "histopatholgy_data":{
+    "file_name": "output.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+
+  },
   "flickr8k(500)_data":{
     "file_name": "filtered_dataset(1).json",
     "formatting": "sharegpt",

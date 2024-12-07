@@ -1,0 +1,3002 @@
+[
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Congo red stain ordered and used to identify eosinophilic hyalinized areas that are congophilic. Polarized light exam is useful in making the diagnosis of amyloidosis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\--FAqZYBCUc_image_deb149dd-31e0-4422-898e-3fd3c5fdf759.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of molluscum contagiosum and the difficulty in diagnosing it when the viral particles reach the dermis and cause an inflammatory reaction.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-2beFTPqWIA_image_d6e7dde3-0c5c-4f93-8126-e7002b26d0b5.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of various nuclear changes like intranuclear inclusions, nuclear enlargement, marginalization of the nuclei, and ground glass appearance of the nuclei.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-4iZCsu91ns_image_6bae68c4-5627-4d0c-aeb4-dda787da9836.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of Candida fungus colonies in the inflammatory exudate.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-4iZCsu91ns_image_c634711e-6f87-4a40-af39-987011b8dbe1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Large vessels are seen in cross-section.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-6p9M6fWjGM_image_5fa0c2cf-881c-4545-bae9-a116e5ad34b3.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The muscle wall of the ampulla of the vas is thicker than that of the seminal vesicle.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-6p9M6fWjGM_image_88b287fd-8635-481f-925c-bfa66d268798.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Different stages of spermatogenesis can be seen in different profiles of the seminiferous tubules.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-6p9M6fWjGM_image_a05b0413-b98b-4d91-b8ae-9cf94beeb987.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The ductal system has lost its smooth muscle as it courses through the interior of the prostate to empty into the prostatic urethra.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-6p9M6fWjGM_image_ab10d7b9-f454-49e6-b952-61446e9178f5.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The specimen contained within the lone collection is the corpus spongiosum of urethra, which is an example of some erectile tissue, as well as the penile urethra contained within it.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-6p9M6fWjGM_image_afe7c92e-b59f-42b2-b4e8-2b0c34cf50c1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Striated but interwovenly arranged muscle cells with central nuclei are seen in the myocardium.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-7j3xNj6GIg_image_37b6fca8-6b25-4ad7-8e5a-fb4142699dc6.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Outer aspect corresponds to the adventitia if this was a blood vessel.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-7j3xNj6GIg_image_77d71371-4317-4555-861b-5fcf93499f6c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Capillaries can be seen in the myocardium as little streams of red cells in individual lines.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-7j3xNj6GIg_image_b6876c3e-2b15-41f4-97ea-ce9778b13b6c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Shave biopsy of a papule on acrodermatitis, which is characterized by hyperkeratosis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-8L4PccsKaI_image_3ccc2bca-7c89-4562-a4f5-587de8cb0262.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Coccidioidomycosis organisms are distinct in appearance.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_05840be9-4b83-4664-87e7-5ef46091f3b8.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Crohn's disease can present with granulomatous infiltrate in the GI tract, including the oral and perianal mucosa and skin, and can lead to fissures, fistulas, and polyps due to granulation tissue and scarring.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_2648f379-855e-4b74-9988-3a3d78821f05.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Collagen trapping can sometimes be confused with granuloma annulare.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_459e2b09-1774-458a-bbcf-6e55bccb669e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Granuloma annulare is characterized by palisades of histiocytes, degenerated collagen or necrobiosis, and mucin or hyaluronic acid.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_484dc00c-e2a3-4d1f-8eef-6e0f9688c3f2.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "There is degenerated collagen or necrobiosis and mucin or myxoid present, which is also known as hyaluronic acid.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_4aeceb68-eab5-4736-a8e2-7fb0b5d6d95d.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Loss of INI1 is important for the diagnosis of epithelioid sarcoma.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_50797270-2446-4d79-a344-60be533c2e61.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The diagnosis can be tricky and may resemble other histiocytic processes.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_73e11f79-1139-4d36-9a26-018b59cf3a33.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Tuberous xanthoma is a large sheet of xanthoma cells with variable amounts of fibrosis that tend to arise in extensor elbow and knee sites and are often associated with lipid abnormalities.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_8a3eb241-f610-4298-8d24-623adc413263.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Skeletal muscle close to the surface is sometimes visible.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_90200273-2901-4838-b6aa-f99ed4185e42.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Naked granulomas with little inflammation and black foreign material (likely tattoo) observed in a biopsy with big sarcoid granulomas.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_ab2bff1c-847e-43e8-b39f-a55866cc7d7c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of cellular morphology, including the presence of a ring of nuclei and a rim of foamy material around the outside of two-tone cells.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_adf9bcef-7bfd-4649-8365-3a520307c63e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Gel foam is not commonly encountered in skin unless seen after a punch biopsy.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_c2b2e587-1220-46d7-a963-9ec0f78d644f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The narrator notes that early JXG can be mistaken for other types of xanthoma or mastocytosis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_c442aad6-0fb7-4790-a4e5-4503ae7300eb.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "No specific medical information provided.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_d9a5132b-7153-4186-b1b9-08fa8813297c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The appearance can range from fibrotic to mononuclear.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-DrveYG8zic_image_fdafb8a4-4b93-4179-a637-7b67360c7611.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "There is an inflammatory process present.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-E-HwjCm2h8_image_e239ba03-6961-4a38-be1f-1ef68e296d19.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Relatively well-preserved neurons observed in between the spongy change.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-EUCyvoJGhg_image_1694e98f-512a-4d43-bdb6-f401fa9d398d.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Enlarged liver with pale cells between hepatocytes.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-EUCyvoJGhg_image_b436d5c3-c715-4fbb-b228-c0b1221d1165.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Weak staining on PAS.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-EUCyvoJGhg_image_e1332a03-a9f1-4e09-8d20-68e3c72542bd.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Polarization may be used to confirm if substance was injected by patient.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_0ac0046d-2132-4ebb-a81c-ca094e5b814f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Lobular mostly funiculitis with some septal involvement and thickening of the septum",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_36869369-87c4-4099-8ba6-c9218ee884a8.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "It is a separate entity from lupus and may be related to other autoinflammatory conditions associated with funiculitis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_4ac6ac27-35cd-4315-9920-a086732c788f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The patient had suppurative granulomatous panniculitis without the classic pattern of erythema nodosum, which was thought to be associated with an infectious disease.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_76d69011-54f5-4d13-81ab-51ea75e0df86.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Possibility of factitious or trauma-induced lesion with small holes and granulomatous inflammation.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_79ad1f88-4131-40ef-923a-c124776e0ead.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The inflammation is a secondary reaction to the body developing something foreign and is common to get trans epidermal.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_81d849d7-34f8-49e2-83af-7f4e10e53b96.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The narrator also describes a case of inflamed, mummified, and destroyed fat with vasculitis and vasculopathy.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-FEdNoJWSKk_image_ee3f25b1-4a0c-4088-80b5-05376b7ea101.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of collagen and fibrous tissue can make something appear white grossly and microscopically.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-IGzWOz6I8Y_image_f2d0f6bf-2cc0-4b06-b048-cc8ce793005c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of normal lung peripheral parenchyma with small bronchiolar lining cells that are ciliated columnar or low columnar towards the more distal airways.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KdKzba3Np0_image_0b2c250e-37a5-4a67-b369-86a0194eaeaa.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Irregular and angulated glandular spaces with atypical architectural features.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KdKzba3Np0_image_beb8450e-3556-4124-bfb1-73282f41734e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Irregular and angulated glandular spaces with atypical architectural features.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KdKzba3Np0_image_ec14790e-5f7e-498d-82c4-0eed554f27e1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Characteristic feature is relatively clear cytoplasm.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_0bd6546d-9290-4e22-8be7-98d5924d220a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Ducts lead up towards the epidermis to form pores.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_13457af0-1671-48ff-a7ca-b1a7a8e65ba9.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The basement membrane delineates the epidermis from the connective tissue.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_23a45b77-5c85-4c25-82bd-3ef2100951d0.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The skins epithelium is keratinized and stratified for multiple layers of protection.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_25f0874d-b684-46ea-8c2d-df2b9b75395f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Melanocytes, which are interspersed in the basal layer and have fine granules in them.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_45a76b81-e96b-4a6e-be80-4116b5a8e9ce.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of the layers of skin including the epidermis, papillary dermis, and denser connective tissue rich in elastic fibers.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_b5b35972-df6e-4b29-8c1a-2d8cfe7d40cf.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of myoepithelial cells in eccrine sweat glands that assist in the expression of sweat.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-KmfEbKmKFw_image_fc05f833-434d-436b-bddf-b1ab2c510357.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Normal islets of Langerhans are present.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-MWxiZ5qFw8_image_b45364c5-8713-4f27-aed0-bee7aacddfa5.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of fibroblasts and smooth muscle in the sample.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-OFnjCeLJk4_image_42779f50-6824-4f4d-9524-e3de2d388928.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The bile duct is visible in the region being discussed.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-OFnjCeLJk4_image_61fe52ef-2e71-4be1-89b2-3bc1f92db8d3.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "There is a PAS stain that allows for identification of cells rich in carbohydrates.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-OFnjCeLJk4_image_941edc53-4980-42eb-9e60-eaa6fea405a4.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Fibroblasts are seen running in fascicles that weave back and forth.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-ORHtEzVW1g_image_7c861b45-16eb-4520-8b86-753bd37545b0.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Inclusion body fibromatosis is recognized by the presence of inclusion bodies.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-ORHtEzVW1g_image_ec900837-c98e-4ec9-b0df-5a6c3e14d1cf.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The dilated blood vessels in the region on the columnar side of the pectinate line are commonly referred to as hemorrhoids.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-QoNfyal1bU_image_6e1da8f0-730e-4cf2-b1bb-b305481f95ae.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Dividing the portion of tooth into pulp, dentinoenamel junction, and surface to dentinoenamel.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-YNGFHZoZFw_image_67ab7d0e-3ea0-4ca4-ab34-fc302ec3bd78.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of dental anatomy, including enamel, dentin, and pulp region. Mention of dark and light bands called diazos.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-YNGFHZoZFw_image_d7411ad0-4efd-4e49-906f-1ec9e91aea5d.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Chondroblastoma is known to have a specific feature.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-bna1obSU8A_image_02e1122a-1b52-46db-b169-94de26b558bd.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Prominent fibrin and hyalinization in the background may be a feature of the condition.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-bna1obSU8A_image_802b8424-cd0f-4bb5-b542-323321c0f2ca.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The cells intervening between the giant cells in a solid sheet is a characteristic feature.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-d6NBuOsh1w_image_6bc47e9b-342a-4c1d-a16a-b98e579b3c12.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Discussion of neutrophils and acute cytotoxic cytokines destroying tissue, including the dermoepidermal junction and collagen. Mention of fibrin within small vessel wall and extroversial IBCs.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-eOHsq5ePk4_image_45eee4ce-1fdf-4a49-a144-1353dd16d844.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Neutrophils are destroying the dermoepidermal junction and collagen.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-eOHsq5ePk4_image_76eb8e3f-60ac-438e-9100-7b15a4afd54e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Occasional eosinophils can also be seen.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-eOHsq5ePk4_image_8bdfefa3-0cbd-47ce-9d80-75c6f9ce4496.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Nuclear dust visible on low power indicating leukocytoclastic vasculitis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-eOHsq5ePk4_image_e37469b2-6da1-4572-8990-689dd8172a50.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Canine distemper virus is a common infectious agent.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-f62w0wsKwM_image_bd34e485-17c1-42f6-8a11-08a5ca232181.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of inflammation and lymphocytosis in the dermal junction, with possible spongiosis and bilirubinemia.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gDq-uK-wQ0_image_03ed4880-52be-4990-bb92-c5915a9af4c4.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "There is a lot of inflammation and inflammatory infiltrate, including lymphocytes.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gDq-uK-wQ0_image_24fe9e94-00ca-4c10-9696-eabff332714a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "There is obliteration of the blood vessels and histocytes and plasma cells are present.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gDq-uK-wQ0_image_7d9b9db7-8f3b-4a87-a071-a03f182f96f4.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The presence of saw-toothed rete ridges is noted.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gDq-uK-wQ0_image_9ed034fa-3e65-4e38-b95a-658fa274f296.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Diagnosis of Bleva or Lichenoides with acute formation.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gDq-uK-wQ0_image_cdbe9795-a034-4bed-ac83-d99a157d7309.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Structures resembling large granules are seen in the dermis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gzNUfkFHaM_image_47d35bf9-c0ea-4fb1-adc8-2349b4660a72.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The infiltrate may be epidermotropic and folliculotropic.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gzNUfkFHaM_image_96821192-64ea-44ba-98cd-6b158630e820.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Schwannomas can clinically resemble giant cell tumors of tendon sheath, but may be painful.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gzNUfkFHaM_image_ae75d52c-1e45-4a53-89a4-9a2161d697e6.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "NLD presents with top to bottom, side to side infiltrates and histiocytes with a layered appearance",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gzNUfkFHaM_image_b3182f75-115f-47e3-b33e-88ad9a495ebb.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cornoid lamella are scattered throughout the lesion, not just at the periphery.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-gzNUfkFHaM_image_f0ec91a6-1107-41d1-bc33-ee9415581097.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The H3K27me3 stain can be helpful in diagnosing this type of tumor.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-hOrqa52z1k_image_7d750d16-ee25-42d7-aeba-f8eba1ae77cc.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The tumor growing out of the nerve is an aggressive type with a poor prognosis. The patient has neurofibromatosis type 1.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-hOrqa52z1k_image_93bdfd0a-74af-49d2-9cb4-a1ce7250d0e6.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Necrosis is often found in malignant peripheral nerve sheath tumors and other sarcomas.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-hOrqa52z1k_image_9725da51-d2a1-496e-b01c-87096825743e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The former theca interna contributes to thecal lutein cells, which are smaller than granulosa lutein cells and are in the periphery of the corpus luteum.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-j0MTolqKh8_image_12aad9ef-124f-4c52-bb0c-c585f5ccdc6a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The former theca interna contributes to thecal lutein cells, which are smaller than granulosa lutein cells and are in the periphery of the corpus luteum.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-j0MTolqKh8_image_9f96776e-d80a-4053-a4aa-d72da47c0bc8.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Follicular cells divide mitotically to form layers.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-j0MTolqKh8_image_a7227476-0f50-48f9-84c5-0e918757da18.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "After ovulation, granulosa cells change their structure from protein-producing cells to steroid-producing cells.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-j0MTolqKh8_image_ab7be81e-6b9f-4f4f-aaa7-da0201b21b78.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Primordial germ cells originate in the walls of the yolk sac and migrate to the gonadal primordia where they induce formation of gonads, in this case ovaries.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-j0MTolqKh8_image_da35c26c-fe56-4bb7-b285-73ff5aae6b5c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cells further from the oocyte form a small hillock called the cumulus oophorus.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-j0MTolqKh8_image_fa54c645-ced5-4bb5-a41b-02a61506a1f1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Penicillamine-induced PXE can cause transepidermal eliminated areas.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_4c701fc9-c766-4d9d-91d9-6d7e5ce003d6.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Calcified elastic fibers seen in pseudoxanthoma and the elastica.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_4c79df7b-484e-4439-ba01-568476ebd48b.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "This case is an example of a lichenoid pattern of syphilis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_70f1e9ba-1cfc-474d-9786-8d8899478843.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Electrocautery is being used to stop bleeding.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_77670f82-d322-4022-9a0f-f6a3f08668a9.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Differential diagnosis for folliculitis includes bacterial folliculitis and other inflammatory conditions like follicular eczema.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_8b1db3ef-feac-4f9f-9014-60377b73f527.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The presented case had a lichenoid pattern, which is often associated with syphilis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_9ae4b624-eb83-467e-a3e6-c9f3ca81822a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The lesion is acute and likely only a few days old.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_9d488379-f247-4b50-bf7b-d8516c1de1f2.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "This case is an example of a lichenoid pattern of syphilis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_bf6eadee-bce2-4e05-9c2d-954a49ff2169.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Syphilis, drug-induced reactions, mycosis fungoides, Langerhans cell histiocytosis, granulomatous PPD, and Hansen\u2019s disease are possible differentials.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-kDPj1J3dfc_image_e6139ee9-0392-4a13-8cc1-b566652ba677.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of a neoplasm forming cords, nests, and islands.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-mMgiZXSRoQ_image_298f0e53-8f59-4c0d-a9f0-6a4f94f56b0a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Possible differential diagnoses include neuroendocrine tumor, solid pseudopapillary tumor, and acinar carcinoma.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-mMgiZXSRoQ_image_aaf827b8-aa32-42b6-92c1-e7597bff1065.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Mitotic figures may be easier to find.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-mMgiZXSRoQ_image_b3e3131c-4a02-4104-a8af-96c0638efd91.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The speaker is examining cells and looking for finely granular chromatin and chromatids to determine if it is a neuroendocrine tumor or solid pseudopapillary tumor.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-mMgiZXSRoQ_image_cf02ee07-11b6-48f1-9eaa-c05f8dad417c.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The case falls into the grade 2 or 3 category of cells, indicating a need for accurate counting. The tumors are well-differentiated neuroendocrine tumors.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-mMgiZXSRoQ_image_e57a9d06-bbf5-47d2-89ba-650bf70a1d20.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Normal islets in close association with neurovascular tissue and neural tissue of pancreas.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-mMgiZXSRoQ_image_f6fdd1d1-2c17-4444-9167-9ea6e86a5c1b.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Inflamed stroma with atypical cells indicating areas of intraepithelial carcinoma with invasion, which is an unusual scenario.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_4b8b0d70-7d16-4d8f-9dfa-5435c5e7f0e2.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of an enlarged ovary with no residual normal architecture and loose appearance of fibrous tissue.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_531b1489-1db1-49d9-8898-2662289e51b1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Patient has a history of invasive high-grade transitional cell carcinoma of the bladder.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_5e294212-e2ce-493a-bf7e-fa5a17597781.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Patients with the germline CDH1 mutation are at high risk of lobular cancer of the breast.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_5f3052ff-8439-43b0-9c50-9d3d10da583f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Mass in an adult patient, 6-7 cm in size, mostly solid with a mixture of pink and blue.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_6b3ec560-1541-4863-94a8-4dd8f1b8a790.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cells with signet ring appearance in the ovary most commonly represent a metastatic tumor, often from the stomach, but could be from other locations as well.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_a630c4b9-0789-4e00-addf-76cdf1f8d363.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The mass had a mixture of pink and blue colors, and glandular structures were visible at low magnification.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_d41692fe-4193-45c6-8bfa-7f2721ff8f3f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The tumor has areas of necrosis and malignant-looking cells with enlarged nuclei and nucleoli. There are also scattered smaller nuclei that could be lymphocytes.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_e03dd50e-8424-4c44-8a4f-13775a4294fc.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Endometrial-type glands can develop into various types of cancers such as endometrioid tumor adenocarcinoma or clear cell carcinoma, or occasionally carcinosarcoma.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_f0152a73-302d-49a8-92ea-2246f89a1ede.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of areas with nuclear enlargement and pleomorphism to the nuclei, indicating possible intraepithelial carcinoma.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-odNO3Jxq28_image_fc50aae2-8f1a-45f2-ab79-0184d54441d1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The presence of large cells, mites, hemosiderin, and foam cells may be indicative of tenosynovial giant cell tumor.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-p10Z1Uym_w_image_15e3983d-7c6b-4470-9225-d72fb2ff3c16.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of large epithelioid looking plasmacytoid cells and mitoses, along with hemosiderin and foam cells, may indicate tenosynovial giant cell tumor.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-p10Z1Uym_w_image_1abe11ad-ea4d-4304-82ca-97948226a01d.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description of chunky and golden pigment that is refractile.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-p10Z1Uym_w_image_4ca39560-4598-4eb0-a5fa-432f9af308b4.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Pacinian corpuscles are deep mechanoreceptors that are most abundant on the ventral surfaces of the distal extremity, particularly in the wrist and digits.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-p10Z1Uym_w_image_b02307d0-e494-4623-bdf9-f7d22b488ec3.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Diagnosis of some cases of giant cell lacking granulomas can be difficult if giant cells are sparse or hard to find.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-p10Z1Uym_w_image_ee341f08-b190-4231-ad29-991c584988ad.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The appearance of the lumen changes depending on the fullness of the bladder.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_1d5bc0c7-ac65-4364-9acb-9718145a5037.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "PCTs are yellow and DCTs are circled in blue.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_25d0cf18-1da4-44b4-9b44-44622ea860e0.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Transitional epithelium serves two purposes: stretchiness and resistance to low pH.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_3e67ad98-abe9-4827-8505-68170a151412.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "PCT is being discussed.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_4406fb71-4b22-468a-bfdf-40944dc4dc0e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The slide shows renal corpuscles, which are only found in the renal cortex.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_762647bd-4155-4d0b-8b3f-d76b268527bc.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Transverse section of a kidney is shown.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_8c0fbc15-d5f8-4f10-882e-86a3a1b4b1a1.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Renal corpuscle with a glomerulus is visible.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-qF35ilcSI0_image_d02ff019-7988-4742-b6bb-85e84cf87c61.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "A large ulcer can be seen in the cecum.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-r8PI5Y2Qrw_image_c7c70196-4646-4e76-ac28-9a4c3c6ca10f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Piece of small bowel shows ulceration of the Peyer\u2019s patches which is typical.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-r8PI5Y2Qrw_image_c96ef26d-87a4-4932-9d20-7ce8fade50f7.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of pleomorphic lipoblasts with clear, empty vacuoles that were filled with lipid that washed out during processing.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-s5__XS2T6o_image_66c766b9-f249-4a47-a3f5-82b40cac2ad0.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Micropapillary morphology should be diagnosed as high grade PIN and central zone glands should be ruled out from differential diagnosis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-tc1i7g1hP0_image_86a530bd-dc97-496b-83db-0a3657f9d308.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Hyperchromatic and pleomorphic nuclei with finely granular cytoplasm due to melanin pigment granules.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-vVBw8GFfaY_image_e747d8f9-54b0-4d07-98f6-24a0b5505b53.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Tumor has extended to the eccrine sweat gland around the eccrine coils.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-vVBw8GFfaY_image_f990b3f4-4f13-40c0-b4c6-71145e0f1abb.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Fat necrosis can be caused by surgical or external trauma, leading to the formation of foreign body granulomas.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-wAotJ7YMA0_image_64c992e6-e556-406a-85e9-82e51186db2b.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Macrophages with golden pigment, typical of hemosiderin, are present.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-wAotJ7YMA0_image_83590606-b9e1-4739-b6c4-a0e8c7c0e0d9.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Breast Fat Necrosis Traumatic case with some normal-looking fat and other changes in the fat.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-wAotJ7YMA0_image_942562f3-b275-4253-8609-649cb9c8d220.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The tissue sample shows a simple columnar ciliated epithelium, which is found in the uterine tube.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\-xRumfNObeM_image_afd2f6c6-4982-4d30-8eee-9433ec825d04.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Explanation of fibrocartilage and its appearance.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\0-CUUSGtK9c_image_059dc3b2-b599-4442-a364-67e3846f5e8e.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Looking for a representative area of the slide to observe transitional epithelium.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\0-CUUSGtK9c_image_86e81cb7-ff3d-4702-9e13-442680bdfa5a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Explanation of fibrocartilage and its appearance.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\0-CUUSGtK9c_image_d3870212-bc92-4378-93e0-6eb8ae27a28a.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cardiac muscle is tricky to identify.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\0-CUUSGtK9c_image_d47e4dfa-8ab1-46ef-9220-95188a9a6f2f.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Inflammatory cells may not always be present in such lesions.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\0-RuE0Ldx6U_image_65def897-01a7-4306-af68-d698df9501e9.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Sections show an edematous pattern with less cellulite and cellular features.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\0-RuE0Ldx6U_image_7239718c-66ff-4bae-ad1e-aa9b32754566.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Thrombophlebitis Greeting Card by Pr. R. Abelanet - Cnri",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000000253.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Histopathology: The biopsy shows an ulcerated, dense, dermal spindle cell tumor with numerous mitoses. Immunohistochemical studies: S100 positive; CD68, keratin and actin negative.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000000374.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The adrenal glands and tumors of extra-adrenal paraganglia",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000000688.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The morphology of normal nerves and decellularized scaffolds (Hematoxylin and eosin staining). Intact nerve section (A); Acellular nerve section (B).",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000001813.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cell dog- cross section esophagus. Histological preparation- dissection of tissue into thin layers with microtome.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000001814.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Tumor tongues",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000002139.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "fibroepithelial papilloma other term)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000002353.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cirrhosis with steatohepatitis in a 54 year old man",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000002616.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Fig. 7. The eccrine glands underneath some areas of epidermal and dermal necrosis were quite well preserved, with only mild signs of necrosis.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000003329.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Presence of PD-L1+ lymphocytes in the mammary glands of NP8 mice when infected at day 60 pw, which were eliminated in mice treated before with anti-CD8 antibodies; the dark staining of cells within the capsules of lymph nodes (arrow on the right picture) was caused by an abundant presence of macrophages (Wanger et al. unpublished), which are not removable by anti-CD8 antibodies and therefore served as an internal control.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000003572.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemical staining of p504s (SP116) Rabbit Monoclonal Primary Antibody",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000004480.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Histopathology of prostate gland hyperplasia. Light micrograph, photo under microscope royalty free stock image",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000004542.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Histological-section-of-spinal-neurenteric-cysts-noting-the-typical-epithelial-lining-seen-with-these-pathological-entities.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000005235.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Photomicrograph of prostate hyperplasia. Prostate hyperplasia. Photomicrograph showing dilated glands, papillary projections inside the lumen of the glands royalty free stock images",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000005653.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "components-of-the-tumor-microenvironment",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000005718.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Description Cirrhosis high mag.jpg",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000005754.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Jpn J Clin Oncol, 2015, Vol. 45, No. 4 333 Figure 7. Case 7: squamous cell carcinoma with neuroendocrine features. (A) H&E staining. (B) Synaptophysin. Figure 8.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000006226.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "(A) Focal lymphocytic myocarditis. Slight edema and a prominent lymphocytic infiltrate are present in the interstitium. Absence of fibrosis (hematoxylin and eosin). (B) Interstitial lymphocytic infiltration and myocyte damage in the form of apoptosis are present (hematoxylin and eosin).",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000006382.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Testicular Gastrointestinal Stromal Tumor (GIST): An Extremely Unusual Secondary of Gastric Primary",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000006562.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Representative staining images of phosphorylated-mammalian target of rapamycin in matched breast tumor tissues (A) pre- and (B) post-NAC chemotherapy, and phosphorylated-eukaryotic translation initiation factor 4E-binding protein (C) pre- and (D) post-NAC chemotherapy. NAC, neoadjuvant (staining intensity, A, strong; B, moderate; C, moderate; D, negative). Bar, 20 m; magnification, 400.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000006594.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "More Accurate Diagnosis For Rare Ovarian Cancer Type On The Cards New Research Reveals Unsw Newsroom",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000008065.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Natural Killer celler fra storfe infisert med tachyzoitter fra Neospora caninum. (Foto: Anne Storset)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000008102.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Bone marrow showing hypocellularity with increased fat and reactive lymphoplasmacytosis (Leishman, 100)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000008208.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemistry (Paraffin-embedded Sections) (IHC (p)) image for anti-GATA Binding Protein 3 (GATA3) (AA 36-85) antibody (ABIN6741533)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00000000009861.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Polyclonal Antibody to Collagen Type VI Alpha 3 (COL6a3)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010074.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "image for anti-Chromogranin A (CHGA) antibody (PerCP) (ABIN6160668)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010079.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Pink Seamless Marble",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010126.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Ubiquitin Antibody - Immunohistochemistry analysis of paraffin-embedded human breast carcinoma tissue, using Ubiquitin Antibody. The picture on the right is blocked with the synthesized peptide.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010161.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Image no. 1 for anti-Calponin 3, Acidic (CNN3) (C-Term) antibody (ABIN571026)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010224.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunocytochemistry - Anti-CRTH2 antibody - N-terminal (ab188998)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010285.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Tasty french macaroons with pink roses on a pink pastel background.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010424.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Stratified squamous epithelium exhibiting pseudoepitheliomatous hyperplasia with rich fibrocellular and fibrovascular connective tissue stroma. (H&E stain, 40)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000010992.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Dcolletage Ultherapy before and after",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000011823.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Figure 2: Photomicrographs showing metastatic testicular carcinoma. Note the infiltrating glands and the atrophied seminiferous tubules",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000012075.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "HEV antigen detecetion in the liver of a gerbil at 7days post-infection. HEV antigen-positive signals (black arrow) were observed in the cytoplasm (A), but not seen in the negative control (B).",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000012660.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Floral pattern made of colorful spring flowers and green leaves on white background. stock photo",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000012799.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemistry (Formalin/PFA-fixed paraffin-embedded sections) - Anti-Neurofilament heavy polypeptide antibody [EPR20020] - BSA and Azide free (ab223139)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000013219.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemical analysis of paraffin-embedded mouse pancreas using NKX6.1 (D8O4R) Rabbit mAb.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000013252.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "PARVB Mouse anti-Human, Clone: OTI2H1, liquid, TrueMAB 100 L; Unconjugated",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000013500.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Slide 2: There is accumulation of mucin within the dermis with concomitant cystification.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000013680.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Metastatic tumor deposits in the liver parenchyma with strong CD117 expression",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000014419.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "image for anti-Prostaglandin-Endoperoxide Synthase 1 (Prostaglandin G/H Synthase and Cyclooxygenase) (PTGS1) (C-Term) antibody (ABIN782890)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000014675.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemical analysis showing mesenchymal neoplasm with fibrillar pattern positive for smooth muscle actin (A) and negative for desmin (B).",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000014764.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "These are fat cells (white circles) in healthy human bone marrow, left, compared to bone marrow in a patient with leukemia, right. (Image courtesy McMaster University)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000014937.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "A, strong nuclear and cytoplasmic staining of most of neoplastic cells (H & E, 100 ); B, strong nuclear and cytoplasmic staining of most of neoplastic cells (H & E, 100 ).",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000014953.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Spleen Histology - Spleen - histology slide",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000015033.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemistry (Formalin/PFA-fixed paraffin-embedded sections) - Anti-Hexokinase II antibody (ab76358)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000015051.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "The histopathologic finding of percutaneous biopsy of peripheral lung mass. This slide reveals sarcoma which is composed of atypical spindle cells with frequent atypical mitoses. The pathologic features of uterine sarcoma elements resemble this (A). Vimentin immunohistochemistry was positve in this lung lesion (B) (A, H&E stain, 400; B, vimentin immunohistochemistry, 400).",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000015254.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Colon cancer outcome picture 3",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000015579.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Staining of porcine zona pellucida with PSGL-1 peptide antibody. Zona pellucida of porcine oocytes were stained with either (A) PSGL-1 peptide antibody or (B) preimmune IgG followed by indirect immunoperoxidase EM as described above. The outer surfaces of the zona are shown. Bar, 2 m.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000015624.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cross section through reconstructed human epidermis",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000016312.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Microphotography of the follicular wall. Panel a and d correspond to low and higher magnification of the small antral follicle wall. Panels b and e represent preovulatory follicle wall. Panels c and f are representatives images of the cystic follicle wall. In a, b, and c, bars correspond to 50 m, and for d, e and f, bars = 20 m.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000017097.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemical analysis of paraffin-embedded human breast carcinoma tissue using Rabbit anti STAT6 (pTyr641) antibody",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000018219.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Expression of caveolin-1 in chromophobe renal cell carcinoma and oncocytoma. (A) Chromophobe renal cell carcinoma is diffuse, moderate to strong positive for caveolin-1, showing granular and cytoplasmic staining with membranous condensation. (B) Oncocytoma is negative for caveolin-1.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000018364.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "a girl and her beloved bear",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000018628.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemistry (Formalin/PFA-fixed paraffin-embedded sections) - Anti-Secretory Component Glycoprotein antibody [SC-05] (ab3924)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000018753.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Immunohistochemical analysis of paraffin-embedded mouse colon tissue using anti-PCK2 antibody. Counter stained with hematoxylin.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000019351.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Cystic Fibrosis Humpathcom Human Pathology",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000019781.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Memory Box Die - Swooping Branches & Leaves Craft Die (MB-30107)",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00001000019845.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "Histopathological evaluation of endometrial biopsies and curetting's in abnormal uterine bleeding",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00002000020091.jpg"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<image>?",
+                "role": "user"
+            },
+            {
+                "content": "IHC staining of FFPE human breast with APRIL antibody at 4ug/ml. HIER: steamed with pH6 citrate buffer, AP-staining.",
+                "role": "assistant"
+            }
+        ],
+        "images": [
+            "C:/Users/aksha/Desktop/histo/200_histo\\00002000020449.jpg"
+        ]
+    }
+]

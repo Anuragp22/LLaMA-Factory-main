@@ -23,6 +23,7 @@ if TYPE_CHECKING:
 
 logger = logging.get_logger(__name__)
 
+
 def run_exp(args: Optional[Dict[str, Any]] = None, callbacks: List["TrainerCallback"] = []) -> None:
     callbacks.append(LogCallback())
     model_args, data_args, training_args, finetuning_args, generating_args = get_train_args(args)
@@ -47,24 +48,25 @@ def export_model(args: Optional[Dict[str, Any]] = None) -> None:
     model_args, data_args, finetuning_args, _ = get_infer_args(args)
 
     if model_args.export_dir is None:
-        raise ValueError("Please specify `export_dir` to save model.")
+        raise ValueError("Please specify export_dir to save model.")
 
     if model_args.adapter_name_or_path is not None and model_args.export_quantization_bit is not None:
         raise ValueError("Please merge adapters before quantizing the model.")
 
+    # Save the model, tokenizer, and processor
     tokenizer_module = load_tokenizer(model_args)
     tokenizer = tokenizer_module["tokenizer"]
     processor = tokenizer_module["processor"]
     get_template_and_fix_tokenizer(tokenizer, data_args)
-    model = load_model(tokenizer, model_args, finetuning_args)  # must after fixing tokenizer to resize vocab
+    model = load_model(tokenizer, model_args, finetuning_args)
 
     if getattr(model, "quantization_method", None) is not None and model_args.adapter_name_or_path is not None:
         raise ValueError("Cannot merge adapters to a quantized model.")
 
     if not isinstance(model, PreTrainedModel):
-        raise ValueError("The model is not a `PreTrainedModel`, export aborted.")
+        raise ValueError("The model is not a PreTrainedModel, export aborted.")
 
-    if getattr(model, "quantization_method", None) is not None:  # quantized model adopts float16 type
+    if getattr(model, "quantization_method", None) is not None:
         setattr(model.config, "torch_dtype", torch.float16)
     else:
         if model_args.infer_dtype == "auto":
@@ -109,7 +111,7 @@ def export_model(args: Optional[Dict[str, Any]] = None) -> None:
             logger.info_rank0(f"Copied valuehead to {model_args.export_dir}.")
 
     try:
-        tokenizer.padding_side = "left"  # restore padding side
+        tokenizer.padding_side = "left"
         tokenizer.init_kwargs["padding_side"] = "left"
         tokenizer.save_pretrained(model_args.export_dir)
         if model_args.export_hub_model_id is not None:
@@ -122,33 +124,22 @@ def export_model(args: Optional[Dict[str, Any]] = None) -> None:
     except Exception as e:
         logger.warning_rank0(f"Cannot save tokenizer, please copy the files manually: {e}")
 
-    # MinIO Upload
+    # MinIO Upload: Upload the entire folder to the bucket
     try:
         minio_client = Minio(
             "minio-s3.ecell-iitkgp.org",
             access_key="GhSxBwP8k780mZolt0OX",
             secret_key="hCD0kvOfxYWfG9xuZWWvGg2XNWec9nVfVdBLOxhr",
-            secure=True,  # HTTPS connection
+            secure=True,
         )
         bucket_name = "model-exports"
-        if not minio_client.bucket_exists(bucket_name):
-            minio_client.make_bucket(bucket_name)
 
-        # Upload files
-        urls = []
+        # Upload the entire export directory to MinIO
         for root, _, files in os.walk(model_args.export_dir):
             for file in files:
                 file_path = os.path.join(root, file)
-                object_name = os.path.relpath(file_path, model_args.export_dir)
+                object_name = os.path.relpath(file_path, start=os.path.dirname(model_args.export_dir))
                 minio_client.fput_object(bucket_name, object_name, file_path)
                 logger.info_rank0(f"Uploaded {object_name} to MinIO bucket {bucket_name}.")
-                
-                # Generate pre-signed URL
-                url = minio_client.presigned_get_object(bucket_name, object_name)
-                urls.append(url)
-                logger.info_rank0(f"Generated URL for {object_name}: {url}")
-
-        return urls
     except S3Error as e:
         logger.error_rank0(f"Error uploading files to MinIO: {e}")
-        return []

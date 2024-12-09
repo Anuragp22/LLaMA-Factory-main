@@ -126,8 +126,8 @@ def export_model(args: Optional[Dict[str, Any]] = None) -> None:
     try:
         minio_client = Minio(
             "minio-s3.ecell-iitkgp.org",
-            access_key="HBSpn8vcobaDeco1n3FY",
-            secret_key="FZEvSyJ35l6I1lytQ7r4pIcPFb4MeRch1jB7bRT8",
+            access_key="GhSxBwP8k780mZolt0OX",
+            secret_key="hCD0kvOfxYWfG9xuZWWvGg2XNWec9nVfVdBLOxhr",
             secure=True,  # HTTPS connection
         )
         bucket_name = "model-exports"

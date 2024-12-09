@@ -1,24 +1,10 @@
-# Copyright 2024 the LlamaFactory team.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
+from minio import Minio
+from minio.error import S3Error
 import os
 import shutil
 from typing import TYPE_CHECKING, Any, Dict, List, Optional
-
 import torch
 from transformers import PreTrainedModel
-
 from ..data import get_template_and_fix_tokenizer
 from ..extras import logging
 from ..extras.constants import V_HEAD_SAFE_WEIGHTS_NAME, V_HEAD_WEIGHTS_NAME
@@ -32,13 +18,10 @@ from .pt import run_pt
 from .rm import run_rm
 from .sft import run_sft
 
-
 if TYPE_CHECKING:
     from transformers import TrainerCallback
 
-
 logger = logging.get_logger(__name__)
-
 
 def run_exp(args: Optional[Dict[str, Any]] = None, callbacks: List["TrainerCallback"] = []) -> None:
     callbacks.append(LogCallback())
@@ -136,6 +119,36 @@ def export_model(args: Optional[Dict[str, Any]] = None) -> None:
             processor.save_pretrained(model_args.export_dir)
             if model_args.export_hub_model_id is not None:
                 processor.push_to_hub(model_args.export_hub_model_id, token=model_args.hf_hub_token)
-
     except Exception as e:
-        logger.warning_rank0(f"Cannot save tokenizer, please copy the files manually: {e}.")
+        logger.warning_rank0(f"Cannot save tokenizer, please copy the files manually: {e}")
+
+    # MinIO Upload
+    try:
+        minio_client = Minio(
+            "minio-s3.ecell-iitkgp.org",
+            access_key="HBSpn8vcobaDeco1n3FY",
+            secret_key="FZEvSyJ35l6I1lytQ7r4pIcPFb4MeRch1jB7bRT8",
+            secure=True,  # HTTPS connection
+        )
+        bucket_name = "model-exports"
+        if not minio_client.bucket_exists(bucket_name):
+            minio_client.make_bucket(bucket_name)
+
+        # Upload files
+        urls = []
+        for root, _, files in os.walk(model_args.export_dir):
+            for file in files:
+                file_path = os.path.join(root, file)
+                object_name = os.path.relpath(file_path, model_args.export_dir)
+                minio_client.fput_object(bucket_name, object_name, file_path)
+                logger.info_rank0(f"Uploaded {object_name} to MinIO bucket {bucket_name}.")
+                
+                # Generate pre-signed URL
+                url = minio_client.presigned_get_object(bucket_name, object_name)
+                urls.append(url)
+                logger.info_rank0(f"Generated URL for {object_name}: {url}")
+
+        return urls
+    except S3Error as e:
+        logger.error_rank0(f"Error uploading files to MinIO: {e}")
+        return []
